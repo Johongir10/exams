@@ -1,0 +1,176 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.med {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    align-items: center;
+    list-style: none;
+}
+
+.ul {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.yozilish {
+    justify-content: space-between;
+    border-radius: 8px;
+    background-color: white;
+    color: #DE2E54CC;
+    padding: 20px;
+    border: solid 2px  #DE2E54CC;
+    align-items: center;
+    text-decoration: none;
+
+}
+
+.ul:hover {
+    color:#DE2E54CC;
+
+}
+
+.ul li a:hover {
+    color: #DE2E54CC;
+}
+
+.yozilish:hover {
+    color:white;
+    background-color: #DE2E54CC;
+}
+
+.hero {
+    background-image: url(./image\ 4\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px 10px;
+}
+
+.h2w {
+    margin: 40px;
+}
+
+.hero .container {
+    display: flex;
+    align-items: center;
+    gap: 200px;
+    justify-content: center;
+}
+.usullar h1{
+    color:white;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.hizmat {
+    width: 200px;
+    height: 200px;
+    gap: 0px;
+    border-radius: 24px;
+    opacity: 0px;
+
+}
+
+.imom {
+    display: flex;
+    padding: 50px;
+  
+}
+
+.johon {
+    background-color: aqua;
+    height: 700px;
+    margin: 100%;
+
+}
+
+.mini {
+    margin-top: 200px;
+    background-color: aqua;
+    display: flex;
+    gap: 200px;
+    padding-top: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.ota5 {
+    background-color: white;
+    height: 230px;
+    border-radius: 10px;
+    text-align: center;
+    width: 300px;
+}
+
+.dad {
+    width: 100%;
+    position: absolute;
+    top: -60px;
+    gap: 70px;
+    display: flex;
+    align-items: center;
+    top: 1420px;
+    padding-left: 47px;
+    
+}
+
+.nm {
+    border-radius: 10px;
+    padding-bottom: 6px;
+}
+
+.dli {
+    background-color: black;
+    padding: 20px 0;
+}
+
+.dli .container {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    align-items: center;
+
+}
+
+.uli {
+    display: flex;
+    gap: 30px;
+}
+
+.uli li a {
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
+.uli li a:hover{
+    color: #DE2E54CC ;
+}
+.usullar{
+    text-align: center;
+}
+.Xizmatlar .container{
+
+}
